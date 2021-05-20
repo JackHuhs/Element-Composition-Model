@@ -1,5 +1,5 @@
 # Percent Composition Pie Chart
-
+<br></br>
 ## Directions
 You can either select a compound from a list, or type in your own using chemical symbols, then it will create a pie chart to show the percentage of each element by mass in the compound. Does require connection to the internet to load, but not to run.
 
