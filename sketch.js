@@ -249,7 +249,7 @@ function findPercents(){
 }
 function draw() {
   //background
-  background(200);
+  background("#e6e6e6");
   strokeWeight(1);
   placeStorer = 0;
   //the ratio of percent to degrees
