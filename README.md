@@ -8,4 +8,5 @@ The piechart has a key and percents next to each of the colors. Each element has
 
 ## Notes
 Only supports chemicals with up to 12 different elements due to limited colors that look sufficiently different from each other. More may be added later. Superscripts for the elements are not required and will not work. Polyatomic ions are not supported.
+<br></br>
 [Link to Project](https://editor.p5js.org/jachuhs/present/Yt6IkvD8w)
