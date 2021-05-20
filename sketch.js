@@ -28,9 +28,9 @@ function startUp1(){
   description = createElement('h2','This program seperates your compound into its different elements, and then creates a pie chart showing the percentage composition of each element by mass. You can choose between typing the chemical composition out yourself, or you can choose an already named compound (Make sure to check the console for more info.)');
   description.position(10,50);
   continueButton = createButton('Type it Yourself');
-  continueButton.position(250,250);
+  continueButton.position(10,275);
   chooseButton = createButton('Choose a Compound');
-  chooseButton.position(250-(chooseButton.width/2)+(continueButton.width/2), 325);
+  chooseButton.position(10, 350);
   continueButton.mousePressed(continue1);
   chooseButton.mousePressed(chooseCompound);
 }
